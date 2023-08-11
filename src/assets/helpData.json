@@ -1,0 +1,137 @@
+{
+  "igms": {
+    "heading": "General Information on IGMS",
+    "QA": [
+      {
+        "id": 1,
+        "question": "How do I fill up the form? Are there any templates for the attachments?"
+      },
+      {
+        "id": 2,
+        "question": "How do I update my Profile?",
+        "answer": "You can do so by clicking on the drop down arrow found on your username located at the top right corner of your screen, click on \"User profile\" to update your profile."
+      },
+      {
+        "id": 3,
+        "question": "What is a Lay abstract? Is it compulsory?",
+        "answer": "A Lay abstract is a summary of your research proposal in terms understandable by a layman. It is compulsory to allow administrators to understand the proposal better. It will not impact the scientific review of your proposal."
+      },
+      {
+        "id": 4,
+        "question": "I cannot upload my attachment.",
+        "answer": "Please check that your attachment is of the type txt, doc, docx, pdf, zip, xls, xlsx, png, jpeg, bmp. It should be less than 4MB in size. Its name should not contain any special characters (e.g. &%!)."
+      },
+      {
+        "id": 5,
+        "question": "Why doesn't the total in the KPI sum up the numbers in the 1st 5 years?",
+        "answer": "This is to allow for values after year 5 to be incorporated into the total."
+      },
+      {
+        "id": 6,
+        "question": "I found a bug in the system. How can I report a bug/error in IGMS?",
+        "answer": "We are sorry to hear about the problem you are experiencing. To expedite our investigation and fixing of the problem, we would like to request that you send an email with a screen shot and details of the error message to <a href=\"mailto:helpdesk@researchgrant.gov.sg\">helpdesk@researchgrant.gov.sg</a> we will respond to you as soon as possible."
+      },
+      {
+        "id": 7,
+        "question": "How can I request for an extension of the deadline?",
+        "answer": "This should be made to your Director of Research who will then liaise with the program manager to see if an extension can be accommodated."
+      },
+      {
+        "id": 8,
+        "question": "How do I get notified of new grant calls?",
+        "answer": "The easiest way is via the IGMS RSS feed."
+      }]
+  },
+  "accounts": {
+    "heading": "General Infomation on Accounts with IGMS",
+    "QA": [
+      {
+        "id": 1,
+        "question": "How do I retrieve my Singpass / Custom login password / reset my password if I have forgotten it?",
+        "answer": "To retrieve and reset your Singpass password, click on the 'Login with Singpass button' followed by 'Forgot Singpass ID' or 'Reset Password' at the password login page. To retrieve and reset your custom login password, click on the reset password or forgot your password link under the 'Enter' button."
+      },
+      {
+        "id": 2,
+        "question": "Why does my login session still remain after I clicked on the Logoff button?",
+        "answer": "If you are using web browsers like Firefox or Netscape other than Internet Explorer, you will need to close the browser to complete the logoff process."
+      }]
+  },
+  "proposals": {
+    "heading": "General Information on Proposals",
+    "QA": [
+      {
+        "id": 1,
+        "question": "How can I check the status of my proposal (whether it has been submitted, endorsed etc)?",
+        "answer": "Login into the portal and click on the menu items under the proposal menu"
+      },
+      {
+        "id": 2,
+        "question": "How can I amend the proposal after I have submitted it?",
+        "answer": "If your Director of Research has not endorsed the proposal, you can request that he/she or your Office of Research (ORE) to route it back to you for amendments. If the proposal has been endorsed, you can email the program manager for the grant call (which can be found in the page with the grant call details) to route the proposal back to you. However, this can only be done after the grant call is closed. Only limited amendments can be made at this stage, viz. amendments to budget, amended attachments and a text box to indicate what the amendments are. IGMS allows edit of draft and when proposal is in Pending Resubmission Status"
+      },
+      {
+        "id": 3,
+        "question": "Why can't I access the link to edit/amend my proposal anymore?",
+        "answer": "The deadline for the grant call or the time allowed to amend the proposal could have passed. Please contact your Director of Research to see if the deadline can be extended."
+      },
+      {
+        "id": 4,
+        "question": "How do I withdraw a submitted proposal?",
+        "answer": "If your Director of Research has not endorsed the proposal, you can request that he/she not endorse the proposal. If the proposal has been endorsed, you can email the program manager for the grant call (which can be found in the page with the grant call details) to withdraw the proposal. Withdrawal is only possible in Pending ORE Verification and Pending Resubmission status. Click on the View Current Proposal submissions, Click on the proposal ID to open up the proposal overview page, actions and withdraw proposal"
+      }]
+  },
+  "guides": {
+    "heading": "Training Guides",
+      "QA": [
+        {
+          "id": 1,
+          "Subheading": "Training Videos (pre-award)",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Training Video for Portal User - Registration",
+              "url": "https://www.youtube.com/embed/iU2HWfKRGNY"
+            },
+            {
+              "id": 2,
+              "title": "Training Video for Portal User - Login and Update Profile",
+              "url": "https://www.youtube.com/embed/kH8VgyljBNk"
+            },
+            {
+              "id": 3,
+              "title": "Training Video for Portal Users - Commons Issues",
+              "url": "https://www.youtube.com/embed/8D68KtoI7w0"
+            }
+          ]},
+        {
+          "id": 2,
+            "Subheading": "Training Videos (post-award)",
+            "videos": [
+              {
+                "id": 1,
+                "title": "Training Video for Portal User - Post Award",
+                "url": "https://www.youtube.com/embed/8D68KtoI7w0"
+              }
+            ]},
+        {
+          "id": 3,
+          "Subheading": "Quick Guides (pre-award)",
+          "links": [
+            {
+              "id": 1,
+                "title": "Quick guide for Potential Applicants (PI)",
+                "url": "https://researchgrant.gov.sg/Documents/pdf/IGMS%20Potential%20applicants_Ver3.8%20(27-04-2023).pdf"
+            }
+          ]},
+        {
+          "id": 10,
+          "Subheading": "Chapters",
+          "videos": [
+            {
+              "id": 1,
+              "title": "Implimenting Chapters to the Youtube Videos",
+              "url": "https://www.youtube.com/embed/pvkTC2xIbeY"
+            }]
+        }
+      ]}
+}
