@@ -1,4 +1,4 @@
-# untitled
+# IGMS Landing
 _Started: Y3S1, 2024_
 
 These are the UI/UX improvements for the IGMS landing page:
