@@ -1,7 +1,7 @@
 # untitled
 Started: Y3S1, 2024
 
-These are the Landing page improvements
+These are the UI/UX improvements for the IGMS landing page
 
 > Mainly help page remodelling
 
@@ -18,7 +18,7 @@ Link: [https://igms-landing.vercel.app/](https://igms-landing.vercel.app/)
 
 <br>
 
-## View the IGMS website redesign github
-> Major UI/UX changes in the interfacing of the IGMS
+## View the IGMS Portal improvements
+> Major UI/UX changes in the interfacing of the IGMS Portal
 
-Link: [https://github.com/MarzanRoy/IGMS-Landing.git](https://github.com/MarzanRoy/IGMS-Redesign.git)
+Link: [https://github.com/MarzanRoy/IGMS-Redesign.git](https://github.com/MarzanRoy/IGMS-Redesign.git)
