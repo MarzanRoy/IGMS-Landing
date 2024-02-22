@@ -1,7 +1,7 @@
 # untitled
 Started: Y3S1, 2024
 
-These are the UI/UX improvements for the IGMS landing page
+These are the UI/UX improvements for the IGMS landing page:
 
 > Mainly help page remodelling
 
