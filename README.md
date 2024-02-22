@@ -1,6 +1,7 @@
-# IGMS Landing Redesign
+# Internship Project
 _Started: Y3S1, 2024_
 
+#### Task: IGMS Landing Redesign
 These are the UI/UX improvements for the IGMS landing page:
 
 > Mainly help page remodelling
