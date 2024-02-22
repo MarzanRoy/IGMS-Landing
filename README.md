@@ -13,7 +13,7 @@ These are the UI/UX improvements for the IGMS landing page:
 
 <br>
 
-## View the demo of this website:
+## View the demo of this website
 Link: [https://igms-landing.vercel.app/](https://igms-landing.vercel.app/) 
 
 <br>
