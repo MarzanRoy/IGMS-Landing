@@ -1,10 +1,12 @@
 # untitled
-> Mainly transitions and help page remodelling
-
 Started: Y3S1, 2024
 
-This is the Landing page improvements
+These are the Landing page improvements
+
+> Mainly help page remodelling
+
 - Added Search function
+- Transitions to increase interactivity
 - Fixed accessibility issues
   - Back to the top hyperlink converted to an icon on the bottom right
   - Hyperlinks link to the respective answers
